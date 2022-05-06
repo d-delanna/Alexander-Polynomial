@@ -73,3 +73,17 @@ def main():
 
 if __name__ == '__main__':
     main()
+
+# OUTPUT:
+
+# Planar Diagram of 3_1: [[2, 6, 3, 5], [4, 2, 5, 1], [6, 4, 1, 3]]
+# Alexander Polynomial: t^2 - t + 1
+
+# Planar Diagram of 4_1: [[4, 2, 5, 1], [8, 6, 1, 5], [6, 3, 7, 4], [2, 7, 3, 8]]
+# Alexander Polynomial: t^3 - 3*t^2 + t
+
+# Planar Diagram of 5_1: [[2, 8, 3, 7], [4, 10, 5, 9], [6, 2, 7, 1], [8, 4, 9, 3], [10, 6, 1, 5]]
+# Alexander Polynomial: t^4 - t^3 + t^2 - t + 1
+
+# Planar Diagram of Example Knot: [[8, 1, 9, 2], [4, 10, 5, 9], [10, 4, 1, 3], [5, 3, 6, 2], [6, 7, 7, 8]]
+# Alexander Polynomial: t^2
